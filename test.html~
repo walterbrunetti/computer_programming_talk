@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+	<head>
+
+		<style>
+
+		h1{
+			color:red;
+			size:20px;
+			text-decoration:underline;
+		}
+
+		</style>
+
+		<script>
+			function calcular_nombre(){
+				var name = document.getElementById("name").value;
+				var total = 0;
+
+				for (char in name){
+					position = "abcdefghijkmnñopqrstuvwxyz".indexOf(name[char]);
+					total += position + 1;
+			
+					if (name[char] === "w"){
+						total +=50;
+					}
+				}
+
+				document.getElementById("result").innerHTML = total;
+			}
+		</script>
+	</head>
+	<body>
+	    <h1>Este es un t&iacute;tulo</h1>
+	    <p>Y esto es un p&aacute;rrafo</p>
+	    <span>Nombre: </span>
+	    <input type="text" name="name" id="name" />
+	    <input type="button" value="Calcular" onclick="calcular_nombre()" />
+	    <h1 id="result"></h1>
+	</body>
+</html>
