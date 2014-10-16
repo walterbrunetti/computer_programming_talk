@@ -1,0 +1,106 @@
+Computer programming
+
+[Progamación]
+Programacion, Computer Sience, Siencas de la computacion, de todo esto vamos a hablar hoy. Vamos a ver algunas historias interesantes y a su vez vamos a ver como se lleva a  delante un poryecto software.
+
+[Presentación]
+Bueno primero voy a presentarme, soy Walter, programador, tengo algo mas de 10 años en la industria del desarrollo de software. He trabajado para varias empresas, locales y extranjeras, y en proyectos chicos (2 -3 personas) y proyectos mas grandes (15-20 personas). Y para marcas algunas grandes tambien como ser Samsung, Kia, Hyundai, National Geographic, etc.
+Bueno...arranquemos..
+
+[Qué es programar] -
+Que es la programar, que se les ocurre? Que significa escribir un progrograma?
+
+[Programar es describir como hacer algo]
+Basicamente, programar en describir como hacer algo. Dicho de otro modo es como escribir los pasos que lleva hacer algo.
+Entonces crear un programa puede ser como componer una cancion, diseñar una casa, o crear cosas. Hasta se ha llegado a discutir si programar es un arte.
+Piensenlo, cuando uno programa, esta usando su imaginacion, su creativdad, y lo plasma en codigo que hace algo.
+
+[Un programa de computación es simplemente un conjunto de instrucciones que le dicen a la computadora cómo realizar una tarea en particular.]
+De aqui se define el programador quien es el que codifica esas instrucciones usando un lenguaje.
+
+[Programar es probablemente unas de las pocas cosas en el mundo en las que te puedes sentar y hacer algo completamente nuevo desde cero, y lo que sea! - mark zuckerberg] FOTO Facebook
+http://es.wikipedia.org/wiki/Mark_Zuckerberg
+
+
+
+[Creo que todos deberian aprender como programar ya que te enseña como pensar. Veo a la programación como arte liberal, algo que todos deberían aprender a hacer- Steve Jobs] FOTO de APPLE
+Steves Jobs, lo conocen no? El tipo creo una del empresas de software mas grande del mundo junto a Steve Wozniak en 1976.
+Hay muchos otros casos como estos en los que se empieza desde cero, con una idea que se termina concretando en empresas enormes.
+
+
+[FOTO GOOGLE]
+Larry Page y Serguéi Brin comienzan Google como un proyecto universitario en enero de 1996 cuando ambos eran estudiantes de posgrado en ciencias de la computación en la Universidad de Stanford. Su objetivo de organizar la enorme cantidad de información en la Web
+
+[Preguntados]
+Maximo Cavazzani, un ingeniero informático de 28 años egresado del Instituto de Tecnología de Buenos Aires, siempre tuvo claro que quería ser un emprendedor y lo logró: en 2009 fundó Etermax y se hizo millonario cuando un broker de Estados Unidos se fijó en su creación y se la compró por un monto que el creador prefiere no mencionar."
+‘Preguntados' salió en noviembre de 2013, pero el boom en América Latina empezó hace dos meses", en marzo, dijo el joven a la AFP tras destacar que la principal ventaja de la informática es que "permite hacer cosas trascendentales con pocos recursos".
+
+
+Lo importante son las ideas, progamar es sencillo. Programar es algo que se puede aprender, no hace falta tener algun talento de naciemiento ni nada. Solo tiene que haber algo en la programacion que te sedusca, que te llame la atención.
+
+[Si programar es sencillo, entonces ¿por qué no hay muchos programadores?]
+Es una realidad, hay pocos programadores y se necesesitan muchos.
+
+
+[En los siguientes 10 años va a haber mas de 1.4 millins de puestos de trabajo en computer science y solo 400 mil califican para esos puestos. Hay una diferencia de un millon!]XXX
+Hoy en dia las empresas de software hacen de todo para contrar programadores y manterlos en sus compañias. Ponen la play, ping pong, zonas de recreacion, comida, Trabajo desde la casa.
+Ya que solo necesitamos una computadora para trabajar, hay veces que podemos trabajar para una empresa que esta a miles de kilomtros de distancia.
+
+[¿Cómo empiezo a programar?]
+Bueno yo recuerdo el primer programa que hice. Fue durante mi ultimo año de la secundaria, teniamos computacion y usabamos Qbasic para programar. Hice un programa donde uno ingresabe su nombre y sumaba las letras en base a su ubicacion en el abecedario. El tema es que hice que la letra W valga 50 puntos, y con eso bastaba para ganarles a todos, incluso al pobre Maximiliano que nunca entendio como mi nombre le ganaba al suyo que teina una X y era mas largo.
+
+[ Elegir un lenguaje de programación ]
+Para crear un programa, y que la computadora lo intérprete y ejecute las instrucciones escritas en él, debe usarse un lenguaje de programación. En sus inicios las computadoras interpretaban sólo instrucciones en un lenguaje específico, del más bajo nivel, conocido como código máquina, siendo éste excesivamente complicado para programar. De hecho sólo consiste en cadenas de números 1 y 0 (sistema binario). Para facilitar el trabajo de programación, los primeros científicos que trabajaban en el área decidieron reemplazar las instrucciones, secuencias de unos y ceros, por palabras o letras provenientes del inglés; las codificaron y crearon así un lenguaje de mayor nivel, que se conoce como Assembly o lenguaje ensamblador.
+Por ejemplo, para sumar se usa la letra A de la palabra inglesa add (sumar). En realidad escribir en lenguaje ensamblador es básicamente lo mismo que hacerlo en lenguaje máquina, pero las letras y palabras son bastante más fáciles de recordar y entender que secuencias de números binarios. A medida que la complejidad de las tareas que realizaban las computadoras aumentaba, se hizo necesario disponer de un método sencillo para programar. Entonces, se crearon los lenguajes de alto nivel
+
+[Lenguajes de alto nivel]
+
+
+[Y como es el ciclo de vida de un proyecto de software]
+
+[Desarrollo ágil - Agile]
+
+
+[Programacion web]
+
+
+
+- Programar es basicamente decirle a la computadora que queres que haga por vos.
+- Programacion Web
+- Back-end front end?
+- Demo live?
+- Ejemplo puntaje por letra de un nombre
+
+
+Ideas
+- Ciclo de vide de un proyecto software
+- Como se pograma? Lenguajes de porgramacion. Explicacion de como llega una intruccion de alto nivel a ser interpretada por la computadora.
+- Que pasa desde que se pone www.facebook.com hasta que vemos algo
+- Como es el proceso de desarrollo de un sistema
+- Historia de la computacion
+- agile, trabajo en equipo
+
+
+http://es.wikipedia.org/wiki/Programaci%C3%B3n
+
+
+- Desarrollar juego ta-te-ti. O mas facil el memo https://www.youtube.com/watch?v=HFFKcP_olV0
+- 
+Referencia
+https://www.youtube.com/watch?v=OWsyrnOBsJs
+
+
+http://www.estudiarcomputacion.gob.ar/
+http://www.fundacionsadosky.org.ar/
+http://control.cifasis-conicet.gov.ar/~fbergero/ingreso/index.php/Main_Page
+http://www.programar.gob.ar/
+
+
+
+
+Agile
+http://es.wikipedia.org/wiki/Proceso_para_el_desarrollo_de_software
+http://es.wikipedia.org/wiki/Desarrollo_%C3%A1gil_de_software
+http://es.wikipedia.org/wiki/Scrum
+
+
